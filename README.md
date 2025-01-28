@@ -6,9 +6,9 @@
 
 Olá, seja bem-vinda (o) ao meu perfil ✨
 
-### Formação
+### Sobre Mim
 - Técnica em Desenvolvimento de Sistemas no Senai.
-- Trabalho na Companhia Paulista de Trens Metropolitanos(CPTM), como programadora de Sistemas de Informaçâo.
+- Trabalho na Companhia Paulista de Trens Metropolitanos(CPTM), como programadora de Sistemas de Informação.
 
 ### Cursos Complementares
 - Interfaces Web com Bootstrap
