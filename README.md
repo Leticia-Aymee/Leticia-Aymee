@@ -10,12 +10,12 @@
 - Técnica em Desenvolvimento de Sistemas no Senai.
 - Trabalho na Companhia Paulista de Trens Metropolitanos (CPTM) como programadora de Sistemas de Informação.
 
-### Cursos Complementares
+### Cursos Complementares no Senai
 - Interfaces Web com Bootstrap
 - Power Apps
 - Power BI
 
-### Tecnologias
+### Habilidades desenvolvidas
   
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
