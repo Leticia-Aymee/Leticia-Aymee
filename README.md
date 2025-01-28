@@ -23,4 +23,5 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Rede Social
-![Instagram](https://www.instagram.com/leh.aymee?igsh=ajdqNmo0Zmo2bXBj)
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+
