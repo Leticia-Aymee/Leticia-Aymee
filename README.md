@@ -22,7 +22,8 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+
 ### Rede Social
-<a href="https://www.instagram.com/leh.aymee?igsh=ajdqNmo0Zmo2bXBj" target="_blank" style="text-decoration: none; color: #000;">
-  <i class="fab fa-instagram" style="margin-right: 8px;"></i> Instagram
-</a>
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white="https://www.instagram.com/leh.aymee?igsh=ajdqNmo0Zmo2bXBj")
+
+ 
