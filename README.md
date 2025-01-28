@@ -1,4 +1,9 @@
-## Hi there 👋
+<h1> 
+  <a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Leticia+Aymee+Gomes+.+.+.&color=FF1493" alt="Typing SVG" />
+  </a> 
+</h1>
+
 
 <!--
 **Leticia-Aymee/Leticia-Aymee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
