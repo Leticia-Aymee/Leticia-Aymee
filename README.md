@@ -4,7 +4,7 @@
   </a> 
 </h1>
 
-## Olá, seja bem-vinda (o) ao meu perfil ✨
+## ✨Olá, seja bem-vinda (o) ao meu perfil ✨
 
 ### Sobre Mim
 - Técnica em Desenvolvimento de Sistemas no Senai.
