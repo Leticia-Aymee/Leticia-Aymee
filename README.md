@@ -4,11 +4,11 @@
   </a> 
 </h1>
 
-Olá, seja bem-vinda (o) ao meu perfil ✨
+## Olá, seja bem-vinda (o) ao meu perfil ✨
 
 ### Sobre Mim
 - Técnica em Desenvolvimento de Sistemas no Senai.
-- Trabalho na Companhia Paulista de Trens Metropolitanos(CPTM), como programadora de Sistemas de Informação.
+- Trabalho na Companhia Paulista de Trens Metropolitanos (CPTM) como programadora de Sistemas de Informação.
 
 ### Cursos Complementares
 - Interfaces Web com Bootstrap
@@ -21,3 +21,5 @@ Olá, seja bem-vinda (o) ao meu perfil ✨
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+
